@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adarsh-zechrome
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning IOS Application development
-- 💞️ I’m looking to collaborate on Flutter rtf file reading 
 - 📫 How to reach me adarsh.zechrom@gmail.com
 
 <!---
