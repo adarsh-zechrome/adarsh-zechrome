@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarsh-zechrome
+- 👋 Hi, I’m Adarsh Gabani
 - 👀 I’m interested in Flutter
 - 📫 How to reach me adarsh.zechrom@gmail.com
 
